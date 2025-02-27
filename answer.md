@@ -1,4 +1,4 @@
-**Using staghide extract the encoded message from the code**
+**Using staghide extract the encoded message**
 
 <br/>
 
